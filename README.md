@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently working with PHP and Laravel.
 
-- 📧 How to reach me: enzo.leosantana@gmail.com
+- 📧 How to reach me: enzoleone.contato@gmail.com
 
 - 📲 Phone for Whatsapp: (11) 97709-5682
 
